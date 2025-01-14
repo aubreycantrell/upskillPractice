@@ -1,1 +1,1 @@
-hello world
+this repo has useful practice with Git and Github and almost no contents
